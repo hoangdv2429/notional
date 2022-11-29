@@ -40,6 +40,7 @@ bash infrastructure/standup.bash
 * Hieu Vu - Blockchain Engineer
 * Huy Nguyen - UI/UX Designer
 * Reece Williams - Blockchain Engineer
+* Hoang Do - Blockchain Engineer
 
 ## Thanks
 
